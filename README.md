@@ -1,4 +1,10 @@
 ### Hi there 👋
+## I'm RushWTF. I'm a 17 years old teenager. I'm currently studing to complete my dream to work in developing of software.
+
+## 🛠️ Js and Python
+## 🌍 Spanish native
+## 📌English: Intermediate
+
 
 <!--
 **RushWTF/RushWTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
