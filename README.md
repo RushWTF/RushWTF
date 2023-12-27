@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm RushWTF. I'm a 18 years old teenager. I'm currently studing to complete my dream to work in developing of software.
+## I'm RushWTF. I'm a 19 years old. I'm currently studing to complete my dream to work in developing of software.
 
 ## 🛠️ JS, Python and C# (currently learning)
 ## 🌍 Spanish native
